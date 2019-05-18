@@ -1,4 +1,4 @@
-# The function cosine similarity takes two arguments (a,b) where a and b bore a word or word phrases.
+# The function cosine similarity takes two arguments (a,b) where a and b either a single word or word phrases(Collection of words).
 
 def cosine(a,b):
     
